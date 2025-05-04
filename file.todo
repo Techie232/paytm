@@ -1,0 +1,6 @@
+Create protected routes ✅
+Store user-info in context api ✅
+Create log-out functionality ✅
+Don't let the user to send money himself ✅
+Render the actual current balance of the user ✅
+Add debouncing for search ✅
